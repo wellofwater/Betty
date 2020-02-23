@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BETTY</string>
+    <string name="action_settings">내 정보 및 설정</string>
+    <string name="action_search">검색</string>
+    <string name="diary_read">일정 관리</string>
+</resources>

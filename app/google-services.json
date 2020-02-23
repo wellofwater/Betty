@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "71839655473",
+    "firebase_url": "https://betty-76200.firebaseio.com",
+    "project_id": "betty-76200",
+    "storage_bucket": "betty-76200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71839655473:android:240e263e148dbd8a",
+        "android_client_info": {
+          "package_name": "com.example.admin.betty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71839655473-mo0jp0ea8auoih4mcp7aujighn8nnpi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.betty",
+            "certificate_hash": "0049d831d634fb5f46945c3e1dcc69bbe4f5cf4f"
+          }
+        },
+        {
+          "client_id": "71839655473-2pjfi8j08g2vr1uic3l5ectihppuell6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9yhZU7D2xO0WKvoZTpgCWUzZB01hq5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71839655473-2pjfi8j08g2vr1uic3l5ectihppuell6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
