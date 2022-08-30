@@ -14,19 +14,19 @@
 
 
 ### 3. 기획안
-![베티_page-0002](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0002.jpg)
+![베티_page-0002](.\md-images\베티_page-0002.jpg)
 
-![베티_page-0003](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0003.jpg)
+![베티_page-0003](.\md-images\베티_page-0003.jpg)
 
-![베티_page-0004](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0004.jpg)
+![베티_page-0004](.\md-images\베티_page-0004.jpg)
 
-![베티_page-0005](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0005.jpg)
+![베티_page-0005](.\md-images\베티_page-0005.jpg)
 
-![베티_page-0006](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0006.jpg)
+![베티_page-0006](.\md-images\베티_page-0006.jpg)
 
-![베티_page-0007](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0007.jpg)
+![베티_page-0007](.\md-images\베티_page-0007.jpg)
 
-![베티_page-0008](C:\Users\saerom\Documents\GitHub\Betty\md-images\베티_page-0008.jpg)
+![베티_page-0008](.\md-images\베티_page-0008.jpg)
 
 
 
